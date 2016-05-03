@@ -1,0 +1,28 @@
+name: ADVANCED WARFARE
+favicon: null
+layout_spectrum: 0.4743227679282427
+typography_spectrum: 0.9989424687810242
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8723614339251071
+  lightness: 0.9297560397535563
+  saturation: 0.6060819360427558
+  rhythmicContrast: 0.8619942823424935
+purpose: []
