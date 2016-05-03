@@ -1,7 +1,7 @@
 name: ADVANCED WARFARE
 favicon: null
-layout_spectrum: 0.4743227679282427
-typography_spectrum: 0.9989424687810242
+layout_spectrum: 0.24724
+typography_spectrum: 0.87882
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#0c0c0c'
+    - '#181818'
+    - '#262626'
+    - '#504536'
   brandStrength: 0.8723614339251071
-  lightness: 0.9297560397535563
-  saturation: 0.6060819360427558
+  lightness: 1
+  saturation: 0.75
   rhythmicContrast: 0.8619942823424935
 purpose: []
